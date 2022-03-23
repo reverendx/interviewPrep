@@ -1,4 +1,4 @@
-https://badges.pufler.dev/visits/{reverendx}/{interviewPrep}
+![GitHub watchers](https://img.shields.io/github/watchers/reverendx/interivewPrep?style=social)
 
 # interviewPrep
 ## Can we go from 0 to FAANG Hero?
