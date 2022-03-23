@@ -1,3 +1,5 @@
+https://badges.pufler.dev/visits/{reverendx}/{interviewPrep}
+
 # interviewPrep
 ## Can we go from 0 to FAANG Hero?
 ### This repo aims to be a compilation of problems, resources, etc. Basically a reference guide to beginner and intermediate software developers.
