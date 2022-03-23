@@ -1,4 +1,4 @@
-https://badges.pufler.dev/visits/reverendx/interviewPrep
+[![Visits Badge](https://badges.pufler.dev/visits/reverendx/interviewPrep)](https://badges.pufler.dev)
 
 
 # interviewPrep
