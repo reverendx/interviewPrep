@@ -1,9 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/reverendx/interviewPrep)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/reverendx/interviewPrep)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/reverendx/interviewPrep)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/reverendx)](https://badges.pufler.dev)
-[![GitHub watchers](https://img.shields.io/github/watchers/reverendx/interviewPrep?style=social&label=Watch&maxAge=2592000)](https://GitHub.comreverendx/interviewPrep)
-
+https://img.shields.io/github/watchers/reverendx/interviewPrep?style=social
 
 # interviewPrep
 ## Can we go from 0 to FAANG Hero?
