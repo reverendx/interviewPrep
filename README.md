@@ -1,13 +1,13 @@
 
 # interviewPrep
 ## Can we go from 0 to FAANG Hero?
-### This repo aims to be a compilation of problems, resources, etc. Basically a reference guide to beginner and intermediate software developers.
+This repo aims to be a compilation of problems, resources, etc. Basically a reference guide to beginner and intermediate software developers.
 
 
 ## Leetcode's 75
-### Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
+Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
 
-### I will be grouping these problems by concepts, this is helpful for practicing a certain subject but also to identify patterns and hopefully this also helps us to get more comfortable withem. (I will be adding a checklist because this is a guide for you just as much as it is mine :P)
+I will be grouping these problems by concepts, this is helpful for practicing a certain subject but also to identify patterns and hopefully this also helps us to get more comfortable withem. (I will be adding a checklist because this is a guide for you just as much as it is mine :P)
  
 ## Arrays
 
