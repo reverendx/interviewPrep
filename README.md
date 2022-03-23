@@ -1,4 +1,10 @@
 [![Visits Badge](https://badges.pufler.dev/visits/reverendx/interviewPrep)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/reverendx/interviewPrep)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/reverendx/interviewPrep)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/reverendx)](https://badges.pufler.dev)
+
+
+
 
 
 # interviewPrep
