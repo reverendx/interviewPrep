@@ -1,6 +1,3 @@
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/reverendx/interviewPrep?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/reverendx?style=social">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/reverendx?style=social">
 
 # interviewPrep
 ## Can we go from 0 to FAANG Hero?
@@ -25,6 +22,9 @@
 - [] [3Sum](https://leetcode.com/problems/3sum/)
 - [] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/reverendx/interviewPrep?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/reverendx?style=social">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/reverendx?style=social">
 
 ## Authors
 
