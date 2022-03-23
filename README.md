@@ -4,9 +4,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/reverendx)](https://badges.pufler.dev)
 
 
-
-
-
 # interviewPrep
 ## Can we go from 0 to FAANG Hero?
 ### This repo aims to be a compilation of problems, resources, etc. Basically a reference guide to beginner and intermediate software developers.
@@ -29,3 +26,12 @@
 - [] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [] [3Sum](https://leetcode.com/problems/3sum/)
 - [] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+
+## Authors
+
+* **Emilio G.** - *aka revx* - [reverendx](https://github.com/reverendx)
+
+## License
+
+This project is licensed under the GNU Public License - see the [LICENSE.md](LICENSE.md) file for details
