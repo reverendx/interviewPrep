@@ -30,7 +30,7 @@
 
 ## Authors
 
-* **Emilio G.** - *aka revx* - [reverendx](https://github.com/reverendx)
+* **Emilio G.** - [aka. reverendx](https://github.com/reverendx)
 
 ## License
 
