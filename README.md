@@ -1,4 +1,4 @@
-https://badges.pufler.dev/visits/{username}/{repo}
+https://badges.pufler.dev/visits/reverendx/interviewPrep
 
 
 # interviewPrep
