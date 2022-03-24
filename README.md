@@ -3,6 +3,12 @@
 ## Can we go from 0 to FAANG Hero?
 This repo aims to be a compilation of problems, resources, etc. Basically a reference guide to beginner and intermediate software developers.
 
+## Table of Contents
+Folder | Description
+:-- | :--: |
+[Bookmarks](url) | Important websites to reference frequently. 
+[Leetcode's 75](url) | Key factors to consider and _remember_ when solving each problem.
+[Downloads](url) | Important resources to reference quite frequently.
 
 ## Leetcode's 75
 Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
