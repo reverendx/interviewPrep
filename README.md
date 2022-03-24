@@ -6,7 +6,7 @@ This repo aims to be a compilation of problems, resources, etc. Basically a refe
 ## Whoami & why even listen to me?
 I wish this section started off with **_"I'm a succesful 6digits entrepeneur talented software engineer..."_** but that's not the case, in fact if this wins your interest and it's within your capabilities, you're welcome to collaborate in this project. I consider myself a beginner. I understand most of the basics but I've been trapped in the wonderful [tutorial hell](https://medium.com/@adrian.td96/what-is-tutorial-hell-d24c1bdb279f). I believe that with the right amount of pracitce _anyone_ can understand and solve these type of problems. Let's try! 
 
-## Table of Contents
+## Table of Contents in this repo.
 Folder | Description | Usage
 :-- | :--: | :--: |
 [Leetcode's 75](url) | Key factors to consider and _remember_ when solving each problem. + _my_ solution. | Pick a problem, instead of trying to memorize my terrible code go through the _notes_ section and try it for yourself. My recommendation would be to _at least_ try to solve a problem a day.🥇
@@ -14,6 +14,25 @@ Folder | Description | Usage
 [Bookmarks](url) | Important websites to reference frequently. | **How to import bookmarks for** [Chrome](https://support.google.com/chrome/answer/96816?hl=en) and [Firefox](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file)
 ## Leetcode's 75
 Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
+
+## Subject guide.
+- [] Logarithms
+- [] Algorithms and Data Structures
+- [] Graph Traversal 
+- [] a. Depth First Search (DFS)
+- [] b. Breadth-first search (BFS)
+- [] Binary Search 
+- [] Sliding Window Technique 
+- [] Recursion 
+- [] a. Nth Fib
+- [] Invert binary tree & reversing LinkedList
+- [] Suffix Trees (advanced)
+- [] Heaps 
+- [] a. Min heaps 
+- [] b. Max heaps 
+- [] Sorting Algorithms  
+- [] a. Quick Sort 
+- [] b. Merge Sort
 
 **Disclaimer: I will be grouping these problems by subjects to identify patterns and hopefully this also helps us to get more comfortable withem. (I will be adding a checklist because this is a guide for you just as much as it is mine** 
 
