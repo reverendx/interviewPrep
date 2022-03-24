@@ -9,7 +9,7 @@ I wish this section started off with **_"I'm a succesful 6digits entrepeneur tal
 ## Table of Contents
 Folder | Description | Usage
 :-- | :--: | :--: |
-[Leetcode's 75](url) | Key factors to consider and _remember_ when solving each problem. | Pick a problem, instead of trying to memorize my terrible code go through the _notes_ section and try it for yourself. My recommendation would be to _at least_ try to solve a problem a day.🥇
+[Leetcode's 75](url) | Key factors to consider and _remember_ when solving each problem. + _my_ solution. | Pick a problem, instead of trying to memorize my terrible code go through the _notes_ section and try it for yourself. My recommendation would be to _at least_ try to solve a problem a day.🥇
 [Downloads](url) | Important resources to reference quite frequently. | Either [clone the whole repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or just download the file you need.
 [Bookmarks](url) | Important websites to reference frequently. | **How to import bookmarks for** [Chrome](https://support.google.com/chrome/answer/96816?hl=en) and [Firefox](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file)
 ## Leetcode's 75
