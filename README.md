@@ -4,11 +4,11 @@
 This repo aims to be a compilation of problems, resources, etc. Basically a reference guide to beginner and intermediate software developers.
 
 ## Table of Contents
-Folder | Description
-:-- | :--: |
-[Bookmarks](url) | Important websites to reference frequently. 
-[Leetcode's 75](url) | Key factors to consider and _remember_ when solving each problem.
-[Downloads](url) | Important resources to reference quite frequently.
+Folder | Description | Usage
+:-- | :--: | :--: |
+[Bookmarks](url) | Important websites to reference frequently. | **How to import bookmarks for** [Chrome](https://support.google.com/chrome/answer/96816?hl=en) and [Firefox](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file)
+[Leetcode's 75](url) | Key factors to consider and _remember_ when solving each problem. | Pick a problem, instead of trying to memorize my terrible code go through the _notes_ section and try it for yourself. 🥇
+[Downloads](url) | Important resources to reference quite frequently. | Either [clone the whole repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or just download the file you need.
 
 ## Leetcode's 75
 Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
