@@ -15,24 +15,26 @@ Folder | Description | Usage
 ## Leetcode's 75
 Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
 
-## Subject guide.
-- [] Logarithms
-- [] Algorithms and Data Structures
-- [] Graph Traversal 
-- [] a. Depth First Search (DFS)
-- [] b. Breadth-first search (BFS)
-- [] Binary Search 
-- [] Sliding Window Technique 
-- [] Recursion 
-- [] a. Nth Fib
-- [] Invert binary tree & reversing LinkedList
-- [] Suffix Trees (advanced)
-- [] Heaps 
-- [] a. Min heaps 
-- [] b. Max heaps 
-- [] Sorting Algorithms  
-- [] a. Quick Sort 
-- [] b. Merge Sort
+## Subject refresher guide.
+Subject | Reload
+:-- | :--: | 
+- [] Logarithms |
+- [] Algorithms and Data Structures |
+- [] Graph Traversal |
+- [] a. Depth First Search (DFS) |
+- [] b. Breadth-first search (BFS) |
+- [] Binary Search |
+- [] Sliding Window Technique |
+- [] Recursion |
+- [] a. Nth Fib |
+- [] Invert binary tree & reversing LinkedList |
+- [] Suffix Trees (advanced) |
+- [] Heaps |
+- [] a. Min heaps |
+- [] b. Max heaps |
+- [] Sorting Algorithms |
+- [] a. Quick Sort |
+- [] b. Merge Sort |
 
 **Disclaimer: I will be grouping these problems by subjects to identify patterns and hopefully this also helps us to get more comfortable withem. (I will be adding a checklist because this is a guide for you just as much as it is mine** 
 
