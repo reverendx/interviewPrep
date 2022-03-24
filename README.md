@@ -16,14 +16,14 @@ Folder | Description | Usage
 ## Subject refresher guide.
 Subject | Critcal | Reload 
 :-- | :--: | :--: |
-[- [] Logarithms] | 
-[- [] Algorithms] | **search:** iterator, binary, hash. **sort:** merge, quick, bucket, radix. **graph traversals:** BFS, DFS. **complexity:** Big O notation. **recursion:** Nth Fib |
-[- [] Data Structures] | binary trees, hash tables, stacks and queues, graphs, arrays and lists |
-[- [] Sliding Window Technique] |
-[- [] Invert binary tree & reversing LinkedList] |
-[- [] Balanced Trees (advanced)] |
-[- [] Suffix Trees (advanced)] |
-[- [] Heaps] | **max and min heaps** |
+**Logarithms** | 
+**Algorithms** | _**search:** iterator, binary, hash. **sort:** merge, quick, bucket, radix. **graph traversals:** BFS, DFS. **complexity:** Big O notation. **recursion:** Nth Fib_ |
+**Data Structures** | _binary trees, hash tables, stacks and queues, graphs, arrays and lists_ |
+**Sliding Window Technique** |
+**Invert binary tree & reversing LinkedList** |
+**Balanced Trees** |
+**Suffix Trees (advanced)** |
+**Heaps** | _**max and min heaps**_ |
 
 
 ## Leetcode's 75
