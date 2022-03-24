@@ -20,7 +20,7 @@ Consists of a list of 75 Leetcode problems to teach you *most* of what you need 
  
 ## Arrays
 
-- [] [Two Sum](url) | [Try it yourself!](https://leetcode.com/problems/two-sum/)
+- [] [Two Sum](https://github.com/reverendx/interviewPrep/blob/main/Leet75s/twoSum.py) | [Try it yourself!](https://leetcode.com/problems/two-sum/)
 - [] [Best Time to Buy and Sell Stock] | [Try it yourself!](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [] [Contains Duplicate] | [Try it yourself!](https://leetcode.com/problems/contains-duplicate/)
 - [] [Product of Array Except Self] | [Try it yourself!](https://leetcode.com/problems/product-of-array-except-self/)
