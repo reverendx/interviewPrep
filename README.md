@@ -12,29 +12,22 @@ Folder | Description | Usage
 [Leetcode's 75](url) | Key factors to consider and _remember_ when solving each problem. + _my_ solution. | Pick a problem, instead of trying to memorize my terrible code go through the _notes_ section and try it for yourself. My recommendation would be to _at least_ try to solve a problem a day.🥇
 [Downloads](url) | Important resources to reference quite frequently. | Either [clone the whole repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or just download the file you need.
 [Bookmarks](url) | Important websites to reference frequently. | **How to import bookmarks for** [Chrome](https://support.google.com/chrome/answer/96816?hl=en) and [Firefox](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file)
-## Leetcode's 75
-Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
 
 ## Subject refresher guide.
-Subject | Reload
-:-- | :--: | 
-- [] Logarithms |
-- [] Algorithms and Data Structures |
-- [] Graph Traversal |
-- [] a. Depth First Search (DFS) |
-- [] b. Breadth-first search (BFS) |
-- [] Binary Search |
-- [] Sliding Window Technique |
-- [] Recursion |
-- [] a. Nth Fib |
-- [] Invert binary tree & reversing LinkedList |
-- [] Suffix Trees (advanced) |
-- [] Heaps |
-- [] a. Min heaps |
-- [] b. Max heaps |
-- [] Sorting Algorithms |
-- [] a. Quick Sort |
-- [] b. Merge Sort |
+Subject | Critcal | Reload 
+:-- | :--: | :--: |
+[- [] Logarithms] | 
+[- [] Algorithms] | **search:** iterator, binary, hash. **sort:** merge, quick, bucket, radix. **graph traversals:** BFS, DFS. **complexity:** Big O notation. **recursion:** Nth Fib |
+[- [] Data Structures] | binary trees, hash tables, stacks and queues, graphs, arrays and lists |
+[- [] Sliding Window Technique] |
+[- [] Invert binary tree & reversing LinkedList] |
+[- [] Balanced Trees (advanced)] |
+[- [] Suffix Trees (advanced)] |
+[- [] Heaps] | **max and min heaps** |
+
+
+## Leetcode's 75
+Consists of a list of 75 Leetcode problems to teach you *most* of what you need to know to ACE that first interview and LAND your first Software dev job.
 
 **Disclaimer: I will be grouping these problems by subjects to identify patterns and hopefully this also helps us to get more comfortable withem. (I will be adding a checklist because this is a guide for you just as much as it is mine** 
 
